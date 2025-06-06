@@ -98,5 +98,5 @@ export const PALAVRAS_RUINS = new Set([
 "resultados",
 "crescimento",
 "iniciativa",
-"alavancagem"
+"alavancagem",
 ]);
